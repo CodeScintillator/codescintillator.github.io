@@ -3,5 +3,8 @@ body {
 }
 
 h1 {
-  color: #F54927
+  color: #F54927;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 3em;
+  font-weight: 600;
 }
